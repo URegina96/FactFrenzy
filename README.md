@@ -29,7 +29,7 @@
 ## Установка
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/fact-frenzy.git
+   git clone https://github.com/URegina96/FactFrenzy.git
    ```
 2. Откройте проект в Android Studio.
 3. Запустите Gradle синхронизацию.
